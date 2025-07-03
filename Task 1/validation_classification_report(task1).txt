@@ -1,0 +1,12 @@
+Validation Accuracy: 0.9604
+Validation ROC AUC: 0.9910
+
+Validation Classification Report:
+              precision    recall  f1-score   support
+
+      Female       0.96      0.96      0.96       315
+        Male       0.96      0.96      0.96       317
+
+    accuracy                           0.96       632
+   macro avg       0.96      0.96      0.96       632
+weighted avg       0.96      0.96      0.96       632

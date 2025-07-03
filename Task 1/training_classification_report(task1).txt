@@ -1,0 +1,12 @@
+Training Accuracy: 0.9747
+Training ROC AUC: 0.9978
+
+Training Classification Report:
+              precision    recall  f1-score   support
+
+      Female       0.98      0.95      0.97       998
+        Male       0.97      0.99      0.98      1532
+
+    accuracy                           0.97      2530
+   macro avg       0.98      0.97      0.97      2530
+weighted avg       0.97      0.97      0.97      2530
