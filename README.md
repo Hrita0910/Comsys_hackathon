@@ -32,6 +32,7 @@ The CNN model consists of:
 - ✅ Now run, python '.\Task 1\task1.py' - Run and train the model
 - ✅ Finally, python '.\Task 1\test.py' - Test on custom images
 
+<br>
 
 ## ✅ Task 2 : Face Recognition
 
