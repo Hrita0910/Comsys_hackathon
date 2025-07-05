@@ -1,6 +1,0 @@
-tensorflow==2.13.0
-opencv-python
-numpy
-matplotlib
-scikit-learn
-Pillow
