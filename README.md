@@ -25,7 +25,7 @@ The CNN model consists of:
 
 ### Steps to run the model
 
-- ✅ Open VS Code(do not create a folder). Open terminal and git clone this project. The particular folder will be created on your computer. Open the required folder (Comsys_hackathon).
+- ✅ Open VS Code(do not create a folder). Open terminal and clone this repository. The particular folder will be created on your computer. Open the required folder (Comsys_hackathon).
 - ✅ Go to the Task 1 folder (cd '.\Task 1\')
 - ✅ pip install -r requirements.txt - Install all the libraries
 - ✅ Go back to the prevoius folder (cd ..)
@@ -57,7 +57,7 @@ This project implements a CNN-based image classification model using ResNet50 (w
 
 ### Steps to run the model
 
-- ✅ Open VS Code or your terminal
+- ✅ Open VS Code. Go to your terminal
 - ✅ Clone the repository
 - ✅ Navigate to the project directory (Comsys_hackathon). Go to Task 2 folder (cd '.\Task 2\')
 - ✅ Go back to the prevoius folder (cd ..)
