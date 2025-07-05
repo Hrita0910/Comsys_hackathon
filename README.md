@@ -61,6 +61,7 @@ This project implements a CNN-based image classification model using ResNet50 (w
 - ✅ Open VS Code. Go to your terminal
 - ✅ Clone the repository
 - ✅ Navigate to the project directory (Comsys_hackathon). Go to Task 2 folder (cd '.\Task 2\')
+- ✅ pip install -r requirements.txt - Install all the libraries
 - ✅ Go back to the prevoius folder (cd ..)
 - ✅ Run, python '.\Task 2\count_images.py' - Counts the number of common images of val and train
 - ✅ Now run, python '.\Task 2\dataset_combine.py' - Merge the train and val datasets into one
