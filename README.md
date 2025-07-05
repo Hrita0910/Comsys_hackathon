@@ -64,7 +64,7 @@ This project implements a CNN-based image classification model using ResNet50 (w
 - ✅ Go back to the prevoius folder (cd ..)
 - ✅ Run, python '.\Task 2\count_images.py' - Counts the number of common images of val and train
 - ✅ Now run, python '.\Task 2\dataset_combine.py' - Merge the train and val datasets into one
-- ✅ Run the model, python '.\Task 2\task2.py' - Run and train the model
+- ✅ Run the model, python '.\Task 2\resnet_task2.py' - Run and train the model
 - ✅ Finally test the model, python '.\Task2\predict.py' - Test on some images
 
 
