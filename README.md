@@ -23,7 +23,7 @@ The CNN model consists of:
 - ✅ Final Dense layer with sigmoid activation for binary classification
 - ✅ Early stopping with patience to avoid overfitting
 
-## Steps to run the model
+### Steps to run the model
 - ✅ pip install -r requirements.txt - Install all the libraries
 - ✅ python task1.py - Run and train hte model
 - ✅ python test.py - Test on custom images
