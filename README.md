@@ -24,8 +24,11 @@ The CNN model consists of:
 - ✅ Early stopping with patience to avoid overfitting
 
 ### Steps to run the model
+- ✅ Open VS Code(do not create a folder). Open terminal and git clone this project. The particular folder will be created on your computer. Open the required folder.
+- ✅ Go to the Task 1 folder (cd '.\Task 1\')
 - ✅ pip install -r requirements.txt - Install all the libraries
-- ✅ python task1.py - Run and train hte model
-- ✅ python test.py - Test on custom images
+- ✅ Go back to the prevoius folder (cd ..)
+- ✅ Now run, python '.\Task 1\task1.py' - Run and train the model
+- ✅ Finally, python '.\Task 1\test.py' - Test on custom images
 
 
