@@ -1,6 +1,6 @@
 # Comsys_hackathon
 
-## Task 1 : Gender Classification
+## ✅ Task 1 : Gender Classification
 
 This project implements a **Convolutional Neural Network (CNN)** using TensorFlow to classify gender (male/female) based on facial images. It includes model training, evaluation (with ROC/Confusion matrix), and a real-time GUI application for image-based prediction using MediaPipe and Tkinter.
 
@@ -33,7 +33,7 @@ The CNN model consists of:
 - ✅ Finally, python '.\Task 1\test.py' - Test on custom images
 
 
-## Task 2 : Face Recognition
+## ✅ Task 2 : Face Recognition
 
 This project implements a CNN-based image classification model using ResNet50 (with fine-tuning) to classify celebrity faces from a multi-class dataset. It includes dataset merging, model training, evaluation (with classification report & ROC curves), and prediction on custom test images using face detection and test-time augmentation (TTA).
 
